@@ -3,8 +3,7 @@
 ## Project Overview
 
 This project demonstrates how to automatically create a Contact record whenever a new Account is inserted in Salesforce using Apex Trigger and Handler Class.
-![image alt](https://github.com/monikasarkar1809/Salesforce-Support-Ticket-Management-App-Admin-Project-/blob/8ef469168fcdd2813a500ffec61016c6cc27175a/Support%20Pic.png)
-
+![image alt](https://github.com/monikasarkar1809/Auto-Contact-Creation-Using-Apex-Trigger/blob/a2ac2fe51486c57aa48513dfefdb82e35216bc57/Auto%20Create%20Contact.png)
 
 ## Technologies Used
 
